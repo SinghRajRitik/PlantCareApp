@@ -92,7 +92,7 @@ const PlantCareBot = ({ onBack }) => {
   };
 
   return (
-    <div className="flex flex-col h-screen w-full lg:max-w-6xl mx-auto bg-gradient-to-br from-green-50 to-blue-50">
+    <div className="flex flex-col h-screen w-full lg:max-w-6xl mx-auto bg-gradient  from-green-50 to-blue-50">
       <div className="bg-green-600 text-white p-4 shadow-lg">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-3">

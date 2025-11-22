@@ -70,9 +70,9 @@ const PlantCareHomepage = () => {
           
           <button
             onClick={handleGetStarted}
-            className=" from-green-600 to-green-500 hover:from-green-700 hover:to-green-600 text-white font-bold text-lg px-12 py-4 rounded-full transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl"
+            className=" from-green-600 to-green-500 hover:from-green-700 hover:to-green-600 text-green-700 font-bold text-lg px-12 py-4 rounded-full transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl"
           >
-            Get Started
+            Get Started 
           </button>
           
           <div className="grid md:grid-cols-3 gap-8 mt-16">
