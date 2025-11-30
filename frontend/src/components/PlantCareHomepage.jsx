@@ -136,5 +136,5 @@ const PlantCareHomepage = () => {
     </div>
   );
 };
-
+// this is the export part of the page
 export default PlantCareHomepage;

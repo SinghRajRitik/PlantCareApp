@@ -86,6 +86,13 @@ const plantKnowledge = {
       "Organic options: compost tea, worm castings, fish emulsion (stinks but works!), or slow-release pellets. These are gentler and improve soil health over time. 🌿"
     ]
   },
+  fertilizer: {
+    keywords: ['benefits', 'advantage', 'uses', 'applications'],
+    responses: [
+      "we get lot of benefits by planting green plant at our home"
+      
+    ]
+  },
   propagation: {
     keywords: ['propagate', 'propagation', 'cutting', 'grow new', 'multiply', 'babies'],
     responses: [
