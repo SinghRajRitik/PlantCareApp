@@ -28,7 +28,7 @@ const Login = ({ onToggle }) => {
       <div className="bg-white rounded-2xl shadow-xl p-8 w-full max-w-md">
         <div className="flex items-center justify-center mb-8">
           <Leaf className="w-12 h-12 text-green-600 mr-3" />
-          <h1 className="text-3xl font-bold text-green-800">PlantCare AI</h1>
+          <h1 className="text-3xl font-bold text-green-800">PlantHealth AI</h1>
         </div>
 
         <h2 className="text-2xl font-semibold text-gray-800 mb-6 text-center">Welcome Back</h2>
